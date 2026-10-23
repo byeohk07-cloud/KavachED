@@ -1,0 +1,10 @@
+streamlit
+Authlib
+pandas
+plotly
+scikit-learn
+pypdf
+groq
+Pillow
+toml
+pytest
