@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="assets/logo.svg" alt="KavachED logo" width="140"/>
 
 # KavachED
